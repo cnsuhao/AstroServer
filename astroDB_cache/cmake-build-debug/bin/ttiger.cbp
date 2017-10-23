@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ttiger"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="astroDB_cache">
+				<Option output="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/astroDB_cache" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/acl/lib_acl_cpp/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/astrometry.net-0.38/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/cfitsio/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/wcstools-3.8.5/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/C-Thread-Pool-master"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 astroDB_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="astroDB_cache/fast">
+				<Option output="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/astroDB_cache" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/acl/lib_acl_cpp/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/astrometry.net-0.38/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/cfitsio/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/wcstools-3.8.5/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/C-Thread-Pool-master"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 astroDB_cache/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="storesource">
+				<Option output="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/lib/libstoresource.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/acl/lib_acl_cpp/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/astrometry.net-0.38/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/cfitsio/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/wcstools-3.8.5/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/C-Thread-Pool-master"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 storesource"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="storesource/fast">
+				<Option output="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/lib/libstoresource.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/acl/lib_acl_cpp/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/astrometry.net-0.38/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/cfitsio/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/wcstools-3.8.5/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/C-Thread-Pool-master"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 storesource/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="intoredis">
+				<Option output="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/lib/libintoredis.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/acl/lib_acl_cpp/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/astrometry.net-0.38/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/cfitsio/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/wcstools-3.8.5/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/C-Thread-Pool-master"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 intoredis"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="intoredis/fast">
+				<Option output="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/lib/libintoredis.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/acl/lib_acl_cpp/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/astrometry.net-0.38/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/cfitsio/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/wcstools-3.8.5/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/C-Thread-Pool-master"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 intoredis/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cross">
+				<Option output="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/lib/libcross.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/acl/lib_acl_cpp/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/astrometry.net-0.38/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/cfitsio/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/wcstools-3.8.5/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/C-Thread-Pool-master"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 cross"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cross/fast">
+				<Option output="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/lib/libcross.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/acl/lib_acl_cpp/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/astrometry.net-0.38/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/cfitsio/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/wcstools-3.8.5/include"/>
+					<Add directory="/home/hadoop/CLionProjects/astroDB_cache/lib/C-Thread-Pool-master"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 cross/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/include/randAbStar.h">
+			<Option target="astroDB_cache"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/include/storeSourceData.h">
+			<Option target="astroDB_cache"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/crossMatch/CrossMatch.cpp">
+			<Option target="cross"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/crossMatch/CrossMatchSphere.cpp">
+			<Option target="cross"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/crossMatch/Partition.cpp">
+			<Option target="cross"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/crossMatch/PartitionSphere.cpp">
+			<Option target="cross"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/crossMatch/StarFile.cpp">
+			<Option target="cross"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/crossMatch/StarFileFits.cpp">
+			<Option target="cross"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/crossMatch/cmutils.cpp">
+			<Option target="cross"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/crossMatch/transform_tp_s.cpp">
+			<Option target="cross"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/intoRedis/NamedPipe.cpp">
+			<Option target="intoredis"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/intoRedis/RedisTest.cpp">
+			<Option target="intoredis"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/intoRedis/randAbStar.cpp">
+			<Option target="intoredis"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/intoRedis/sendPerBlock.cpp">
+			<Option target="intoredis"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/intoRedis/sendPerLine.cpp">
+			<Option target="intoredis"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/main.cpp">
+			<Option target="astroDB_cache"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/storeSourceData/storeIntoLocalDisk.cpp">
+			<Option target="astroDB_cache"/>
+			<Option target="storesource"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/home/hadoop/CLionProjects/astroDB_cache/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

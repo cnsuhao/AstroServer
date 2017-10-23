@@ -1,0 +1,8 @@
+/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/CMakeFiles/edit_cache.dir
+/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/CMakeFiles/rebuild_cache.dir
+/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/CMakeFiles/astroDB_cache.dir
+/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/CMakeFiles/storesource.dir
+/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/CMakeFiles/intoredis.dir
+/home/hadoop/CLionProjects/astroDB_cache/cmake-build-debug/bin/CMakeFiles/cross.dir

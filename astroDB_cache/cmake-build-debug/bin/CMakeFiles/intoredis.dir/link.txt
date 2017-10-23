@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libintoredis.a  CMakeFiles/intoredis.dir/intoRedis/RedisTest.cpp.o CMakeFiles/intoredis.dir/intoRedis/sendPerBlock.cpp.o CMakeFiles/intoredis.dir/intoRedis/randAbStar.cpp.o CMakeFiles/intoredis.dir/intoRedis/NamedPipe.cpp.o CMakeFiles/intoredis.dir/intoRedis/sendPerLine.cpp.o
+/usr/bin/ranlib ../lib/libintoredis.a

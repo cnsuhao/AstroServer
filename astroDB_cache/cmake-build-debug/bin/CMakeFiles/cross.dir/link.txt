@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libcross.a  CMakeFiles/cross.dir/crossMatch/CrossMatchSphere.cpp.o CMakeFiles/cross.dir/crossMatch/StarFile.cpp.o CMakeFiles/cross.dir/crossMatch/Partition.cpp.o CMakeFiles/cross.dir/crossMatch/transform_tp_s.cpp.o CMakeFiles/cross.dir/crossMatch/PartitionSphere.cpp.o CMakeFiles/cross.dir/crossMatch/cmutils.cpp.o CMakeFiles/cross.dir/crossMatch/StarFileFits.cpp.o CMakeFiles/cross.dir/crossMatch/CrossMatch.cpp.o
+/usr/bin/ranlib ../lib/libcross.a

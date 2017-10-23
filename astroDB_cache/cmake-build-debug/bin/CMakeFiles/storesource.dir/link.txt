@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libstoresource.a  CMakeFiles/storesource.dir/storeSourceData/storeIntoLocalDisk.cpp.o
+/usr/bin/ranlib ../lib/libstoresource.a
