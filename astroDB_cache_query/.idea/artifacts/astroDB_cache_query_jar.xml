@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="astroDB_cache_query:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/astroDB_cache_query_jar</output-path>
+    <root id="archive" name="astroDB_cache_query.jar">
+      <element id="module-output" name="astroDB_cache_query" />
+    </root>
+  </artifact>
+</component>
